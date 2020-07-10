@@ -1,4 +1,6 @@
-### My name is Youssef, welcome to my Github Repo! 👋
+<h1 align="center">
+  ### My name is Youssef, welcome to my Github Repo! 👋
+ </h1>
 
 <p align="center">
   <img src="https://thumbs.gfycat.com/SpanishShrillIvorygull-small.gif" style="width: 900px; height: auto;"/>
