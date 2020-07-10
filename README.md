@@ -1,6 +1,6 @@
-<h1 align="center">
+<h2 align="center">
   My name is Youssef, welcome to my Github Repo! 👋
- </h1>
+ </h2>
 
 <p align="center">
   <img src="https://thumbs.gfycat.com/SpanishShrillIvorygull-small.gif" width="400" height="300"/>
