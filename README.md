@@ -1,5 +1,7 @@
 ### Hi there 👋
-### My name is Youssef, welcome to my Github Repo!
+## My name is Youssef, welcome to my Github Repo!
+
+<img src="https://thumbs.gfycat.com/WarlikeForkedBellfrog-size_restricted.gif" />
 
 <!--
 **eryous/eryous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
