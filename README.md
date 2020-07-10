@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## My name is Youssef, welcome to my Github Repo!
 
-<img src="https://i.pinimg.com/originals/16/0a/8a/160a8a47a6685b05e3a2d896a6335255.gif" style="width: 900px; height: auto;"/>
+<img src="https://i.pinimg.com/originals/fd/78/9c/fd789c2563f36186cc846db07ae1cf48.gif" style="width: 900px; height: auto;"/>
 <!--
 **eryous/eryous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
